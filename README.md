@@ -1,1 +1,1 @@
-# RandomQuantumWalk
+# RandoqmuantumWalk
